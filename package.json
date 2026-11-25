@@ -1,0 +1,7 @@
+{
+  "name": "worst-fix-ever-commit",
+  "version": "1.0.0",
+  "description": "Writes the worst fix ever commit message to /output/entry.txt",
+  "type": "module",
+  "main": "main.ts"
+}
